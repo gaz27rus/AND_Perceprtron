@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(107): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+main.cpp(403): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(413): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(496): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(504): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(507): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(519): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Neural.vcxproj -> C:\Users\Глеб\Desktop\Neural\Release\Neural.exe
+  Neural.vcxproj -> C:\Users\Глеб\Desktop\Neural\Release\Neural.pdb (Full PDB)
